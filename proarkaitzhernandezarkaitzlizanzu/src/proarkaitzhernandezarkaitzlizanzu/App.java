@@ -8,7 +8,7 @@ public class App {
            System.out.println("Entornos");
            System.out.println("Sistemas");
            System.out.println("Lenguaje de marcas");
-           System.out.println("Programacion Jav");
+           System.out.println("Programacion Java");
 	}
 
 }
