@@ -7,7 +7,7 @@ public class App {
            System.out.println ("Bases de datos");
            System.out.println("Entornos");
            System.out.println("Sistemas");
-           System.out.println("Programacion");
+           System.out.println("Programacion Java");
 	}
 
 }
